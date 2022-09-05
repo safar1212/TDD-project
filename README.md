@@ -8,7 +8,7 @@
 
 ## Functionalites 😄
 
-- you can add people, teacher and students in the data.
+- Trying test driven development practises.
 
 
 ## Getting Started 🙌
