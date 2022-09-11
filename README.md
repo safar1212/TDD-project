@@ -1,5 +1,7 @@
 # TDD-project
 
+In this project, I tried to follow the test driven development prcess to build projects.
+
 ## Welcome! 👋
                               
 ## Built With ✔️
